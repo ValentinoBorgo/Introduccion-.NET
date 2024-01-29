@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\PruebasBack\PruebasBack\bin\Debug\net8.0\PruebasBack.exe
+C:\Users\Usuario\source\repos\PruebasBack\PruebasBack\bin\Debug\net8.0\PruebasBack.deps.json
+C:\Users\Usuario\source\repos\PruebasBack\PruebasBack\bin\Debug\net8.0\PruebasBack.runtimeconfig.json
+C:\Users\Usuario\source\repos\PruebasBack\PruebasBack\bin\Debug\net8.0\PruebasBack.dll
+C:\Users\Usuario\source\repos\PruebasBack\PruebasBack\bin\Debug\net8.0\PruebasBack.pdb
+C:\Users\Usuario\source\repos\PruebasBack\PruebasBack\obj\Debug\net8.0\PruebasBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\PruebasBack\PruebasBack\obj\Debug\net8.0\PruebasBack.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PruebasBack\PruebasBack\obj\Debug\net8.0\PruebasBack.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PruebasBack\PruebasBack\obj\Debug\net8.0\PruebasBack.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PruebasBack\PruebasBack\obj\Debug\net8.0\PruebasBack.dll
+C:\Users\Usuario\source\repos\PruebasBack\PruebasBack\obj\Debug\net8.0\refint\PruebasBack.dll
+C:\Users\Usuario\source\repos\PruebasBack\PruebasBack\obj\Debug\net8.0\PruebasBack.pdb
+C:\Users\Usuario\source\repos\PruebasBack\PruebasBack\obj\Debug\net8.0\PruebasBack.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\PruebasBack\PruebasBack\obj\Debug\net8.0\ref\PruebasBack.dll
